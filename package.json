@@ -1,0 +1,16 @@
+{
+  "name": "smsspeedway",
+  "version": "1.0.0",
+  "description": "A wrapper for the SMSSpeedway api for allowing your app to send text messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sms",
+    "text",
+    "smsspeedway"
+  ],
+  "author": "Jae Toole",
+  "license": "ISC"
+}
